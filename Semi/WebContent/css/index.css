@@ -1,0 +1,37 @@
+@charset "UTF-8";
+html,
+body {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+header {
+  margin: 0 auto;
+  width: 1200px;
+  height: 100px;
+  border: 1px solid black;
+}
+section {
+  margin: 0 auto;
+  width: 1200px;
+  border: 1px solid black;
+}
+header ol {
+  list-style: none;
+}
+header ol li {
+  display: inline-block;
+}
+header ol li:hover{
+	cursor: pointer;
+}
+footer {
+  margin: 0 auto;
+  width: 1200px;
+  height: 100px;
+  border: 1px solid black;
+}
+section{
+	position: relative;
+	height: 800px;
+}

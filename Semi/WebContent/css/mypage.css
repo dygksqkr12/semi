@@ -1,0 +1,100 @@
+@charset "UTF-8";
+.box {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+aside {
+  background-color: #dcdad9;
+  left: 30px;
+  width: 200px;
+  height: 200px;
+  top: 70px;
+  position: absolute;
+}
+.a{
+	position: absolute;
+	left: 5px;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+.my{
+	position: absolute;
+	left: 300px;
+	top: 100px;
+	height: 300px;
+	width: 700px; 
+}
+.me{
+	position: absolute;
+	left: 300px;
+	top: 50px;
+}
+.meet{
+	position: absolute;
+	left: 190px;
+	top: 500px;
+}
+tr,
+td {
+  border: 1px solid black;
+}
+#kh {
+  height: 200px;
+  width: 200px;
+}
+#nam{
+	height: 200px;
+	width: 200px;
+}
+#ball{
+	height: 200px;
+	width: 200px;
+}
+#drink{
+	height: 200px;
+	width: 200px;
+}
+.btn{
+	position: absolute;
+	top: 410px;
+	left: 900px;
+}
+.btn2{
+	position: absolute;
+	top: 410px;
+	left: 765px;
+}
+.btn3{
+	position: absolute;
+	top: 410px;
+	left: 850px;
+}
+.btn4{
+	position: absolute;
+	top: 410px;
+	left: 960px;
+}
+.Mp{
+	position: absolute;
+	top: 0;
+	left: 30px;
+}
+.mtm{
+	position: absolute;
+	top: 450px;
+	left: 190px;
+}
+.a2{
+	position: absolute;
+	top: 470px;
+	left: 955px;
+}
+.up{
+	margin: 0px;
+	height: 25px;
+}
